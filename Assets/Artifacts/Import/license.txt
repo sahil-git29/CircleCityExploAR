@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bear
+* source:	https://sketchfab.com/3d-models/bear-6e8bef81e4b24ac69951756835ba0fe7
+* author:	VIMUNE (https://sketchfab.com/vimune)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bear" (https://sketchfab.com/3d-models/bear-6e8bef81e4b24ac69951756835ba0fe7) by VIMUNE (https://sketchfab.com/vimune) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
